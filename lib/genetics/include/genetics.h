@@ -19,7 +19,7 @@
 #define APP_HEADER ("My Amazing World")
 #define APP_BUILD ("Version 0.0.1")
 #define APP_FOOTER ("Epitech Project CPY 2018 | CSFLM / Genetics library | \
-Matthieu Moinvaziri / Alexandre Frydman")
+Matthieu / Alexandre")
 
 #define RSC_BG ("./data/background.jpg")
 #define RSC_LOGO ("./data/logo.png")
